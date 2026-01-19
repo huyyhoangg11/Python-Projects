@@ -1,1 +1,1 @@
-# Python-Projects
+# 2d-laplace-gauss-seidel
