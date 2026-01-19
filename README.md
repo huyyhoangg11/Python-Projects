@@ -4,7 +4,7 @@
 ## 🏫 Thông tin chung
 * **Trường:** Đại học Bách Khoa Hà Nội - Trường CNTT & TT
 * **Môn học:** Tính toán khoa học (Scientific Computing)
-* **Giảng viên hướng dẫn:** TS. [cite_start]Vũ Văn Thiệu
+* **Giảng viên hướng dẫn:** TS. Vũ Văn Thiệu
 * **Học kỳ:** 2025.1 (Tháng 1/2026)
 
 ## 👥 Nhóm thực hiện
