@@ -2,10 +2,10 @@
 (Research on Gauss-Seidel method for solving 2D Laplace equation in viscous flow)
 
 ## 🏫 Thông tin chung
-* [cite_start]**Trường:** Đại học Bách Khoa Hà Nội - Trường CNTT & TT
-* [cite_start]**Môn học:** Tính toán khoa học (Scientific Computing)
+* **Trường:** Đại học Bách Khoa Hà Nội - Trường CNTT & TT
+* **Môn học:** Tính toán khoa học (Scientific Computing)
 * **Giảng viên hướng dẫn:** TS. [cite_start]Vũ Văn Thiệu
-* [cite_start]**Học kỳ:** 2025.1 (Tháng 1/2026)
+* **Học kỳ:** 2025.1 (Tháng 1/2026)
 
 ## 👥 Nhóm thực hiện
 | STT | Họ và tên | MSSV |
@@ -21,15 +21,15 @@
 Dự án nghiên cứu và cài đặt phương pháp lặp **Gauss-Seidel** kết hợp với phương pháp **Sai phân hữu hạn (Finite Difference Method - FDM)** để giải phương trình Laplace hai chiều $(\nabla^2 \phi = 0)$.
 
 Ứng dụng cụ thể:
-1.  [cite_start]**Bài toán kiểm chứng:** Giải phương trình Laplace trên miền hình chữ nhật đơn giản với điều kiện biên Dirichlet.
-2.  [cite_start]**Bài toán ứng dụng:** Mô phỏng dòng chảy nhớt trong kênh dẫn có tiết diện hình chữ C (C-section channel).
+1.  **Bài toán kiểm chứng:** Giải phương trình Laplace trên miền hình chữ nhật đơn giản với điều kiện biên Dirichlet.
+2.  **Bài toán ứng dụng:** Mô phỏng dòng chảy nhớt trong kênh dẫn có tiết diện hình chữ C (C-section channel).
 
 ## 📊 Kết quả mô phỏng
 Chương trình được viết bằng Python, sử dụng thư viện `numpy` để tính toán ma trận và `matplotlib` để trực quan hóa dữ liệu (Contour plot & 3D Surface plot).
 
 * **Phương pháp:** Gauss-Seidel Iteration.
-* [cite_start]**Điều kiện dừng:** Sai số hội tụ $\epsilon < 10^{-4}$.
-* [cite_start]**Kết quả:** Thuật toán hội tụ sau khoảng 828 bước lặp (đối với lưới 31x31).
+* **Điều kiện dừng:** Sai số hội tụ $\epsilon < 10^{-4}$.
+* **Kết quả:** Thuật toán hội tụ sau khoảng 828 bước lặp (đối với lưới 31x31).
 
 <img width="365" height="89" alt="image" src="https://github.com/user-attachments/assets/24f7875d-7e49-48d4-a44e-24df07a6ae2a" />
 
